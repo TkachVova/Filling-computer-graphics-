@@ -26,6 +26,7 @@ namespace Graphics_lab2
             pictureBox.Image = pd.bitmap;
             fillButton.Enabled = true;
             button1.Enabled = true;
+            button2.Enabled = true;
         }
 
         private void pictureBox_Click(object sender, EventArgs e)
@@ -50,8 +51,8 @@ namespace Graphics_lab2
                     Pen pen = new Pen(Color.Red, 1);
                 MouseEventArgs me = (MouseEventArgs)e;
                 Point cursorPosition = me.Location;
-                //Color cl = pd.bitmap.GetPixel(cursorPosition.X, cursorPosition.Y);
-                pd.FillZone4(cursorPosition);
+                Color cl = pd.bitmap.GetPixel(cursorPosition.X, cursorPosition.Y);
+                pd.FillZone4(cursorPosition, cl);
 
                 pictureBox.Image = pd.bitmap;
                 }
@@ -61,8 +62,19 @@ namespace Graphics_lab2
                     Pen pen = new Pen(Color.Red, 1);
                     MouseEventArgs me = (MouseEventArgs)e;
                     Point cursorPosition = me.Location;
-                    //Color cl = pd.bitmap.GetPixel(cursorPosition.X, cursorPosition.Y);
-                    pd.FillZone44(cursorPosition);
+                    Color cl = pd.bitmap.GetPixel(cursorPosition.X, cursorPosition.Y);
+                    pd.FloodFill(cursorPosition, cl);
+
+                    pictureBox.Image = pd.bitmap;
+                }
+
+                if (fillmode == 3)
+                {
+                    Pen pen = new Pen(Color.Red, 1);
+                    MouseEventArgs me = (MouseEventArgs)e;
+                    Point cursorPosition = me.Location;
+                    Color cl = pd.bitmap.GetPixel(cursorPosition.X, cursorPosition.Y);
+                    pd.LineFill(cursorPosition, cl);
 
                     pictureBox.Image = pd.bitmap;
                 }
@@ -133,26 +145,31 @@ namespace Graphics_lab2
 
         private void fillButton_Click_1(object sender, EventArgs e)
         {
-            if (fillmode == 0)
-            {
-                fillmode = 1;
-            }
-            else
+            if (fillmode == 1)
             {
                 fillmode = 0;
             }
+            else fillmode = 1;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (fillmode == 0)
-            {
-                fillmode = 2;
-            }
-            else
+            if (fillmode == 2)
             {
                 fillmode = 0;
             }
+            else fillmode = 2;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (fillmode == 3)
+            {
+                fillmode = 0;
+            }
+            else   fillmode = 3;
+            
+            
         }
     }
 }
