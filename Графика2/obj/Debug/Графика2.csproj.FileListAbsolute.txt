@@ -1,0 +1,40 @@
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\bin\Debug\Графика2.exe
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\bin\Debug\Графика2.pdb
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\obj\Debug\Графика2.Form1.resources
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\obj\Debug\Графика2.Properties.Resources.resources
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\obj\Debug\Графика2.csproj.GenerateResource.Cache
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\obj\Debug\Графика2.exe
+C:\Users\Aleksej\AppData\Local\Temporary Projects\Графика2\obj\Debug\Графика2.pdb
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\obj\Debug\Графика2.exe
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\obj\Debug\Графика2.pdb
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\obj\Debug\Графика2.Form1.resources
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\obj\Debug\Графика2.Properties.Resources.resources
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\obj\Debug\Графика2.csproj.GenerateResource.Cache
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\bin\Debug\Графика2.exe
+C:\Users\Aleksej\Documents\Visual Studio 2008\Projects\Графика2\Графика2\bin\Debug\Графика2.pdb
+F:\Down\Графика2\Графика2\obj\Debug\Графика2.exe
+F:\Down\Графика2\Графика2\obj\Debug\Графика2.pdb
+F:\Down\Графика2\Графика2\bin\Debug\Графика2.exe
+F:\Down\Графика2\Графика2\bin\Debug\Графика2.pdb
+F:\Down\Графика2\Графика2\obj\Debug\Графика2.csprojResolveAssemblyReference.cache
+F:\Down\Графика2\Графика2\obj\Debug\Графика2.Form1.resources
+F:\Down\Графика2\Графика2\obj\Debug\Графика2.Properties.Resources.resources
+F:\Down\Графика2\Графика2\obj\Debug\Графика2.csproj.GenerateResource.Cache
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\obj\Debug\Графика2.exe
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\obj\Debug\Графика2.pdb
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\bin\Debug\Графика2.exe
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\bin\Debug\Графика2.pdb
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\obj\Debug\Графика2.csprojResolveAssemblyReference.cache
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\obj\Debug\Графика2.Form1.resources
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\obj\Debug\Графика2.Properties.Resources.resources
+C:\Users\Vladymyr\Downloads\Grafika2\Графика2\Графика2\obj\Debug\Графика2.csproj.GenerateResource.Cache
+D:\Vladymyr\Graphics\Графика2\Графика2\obj\Debug\Графика2.exe
+D:\Vladymyr\Graphics\Графика2\Графика2\obj\Debug\Графика2.pdb
+D:\Vladymyr\Graphics\Графика2\Графика2\bin\Debug\Графика2.exe
+D:\Vladymyr\Graphics\Графика2\Графика2\bin\Debug\Графика2.pdb
+D:\Vladymyr\Graphics\Графика2\Графика2\obj\Debug\Графика2.csprojResolveAssemblyReference.cache
+D:\Vladymyr\Graphics\Графика2\Графика2\obj\Debug\Графика2.Form1.resources
+D:\Vladymyr\Graphics\Графика2\Графика2\obj\Debug\Графика2.Properties.Resources.resources
+D:\Vladymyr\Graphics\Графика2\Графика2\obj\Debug\Графика2.csproj.GenerateResource.Cache

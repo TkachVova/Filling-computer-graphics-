@@ -1,0 +1,7 @@
+D:\Vladymyr\Graphics\Графика3\Графика2\bin\Release\Graphics_lab2.exe
+D:\Vladymyr\Graphics\Графика3\Графика2\bin\Release\Graphics_lab2.pdb
+D:\Vladymyr\Graphics\Графика3\Графика2\obj\Release\Graphics_lab2.Form1.resources
+D:\Vladymyr\Graphics\Графика3\Графика2\obj\Release\Graphics_lab2.Properties.Resources.resources
+D:\Vladymyr\Graphics\Графика3\Графика2\obj\Release\Graphics_lab2.csproj.GenerateResource.Cache
+D:\Vladymyr\Graphics\Графика3\Графика2\obj\Release\Graphics_lab2.exe
+D:\Vladymyr\Graphics\Графика3\Графика2\obj\Release\Graphics_lab2.pdb
